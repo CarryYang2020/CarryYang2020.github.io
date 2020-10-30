@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-30T05:45:53.903Z</updated>
+  <updated>2020-10-30T05:47:55.271Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://example.com/2020/10/30/Xcode12-1/"/>
     <id>http://example.com/2020/10/30/Xcode12-1/</id>
     <published>2020-10-30T05:37:44.665Z</published>
-    <updated>2020-10-30T05:45:53.903Z</updated>
+    <updated>2020-10-30T05:47:55.271Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;*Xcode12编译的项目如果有用到.c方法的部分提示：&lt;font color=&quot;red&quot;&gt; Implicit declaration of function ‘xx’ is invalid in C99&lt;/font&gt;&amp;gt;,并且不能编译通过的话 添加&lt;font</summary>
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Xcode12编译的项目如果有用到.c方法的部分提示：&lt;font color=&quot;red&quot;&gt; Implicit declaration of function ‘xx’ is invalid in C99&lt;/font&gt;&amp;gt;,并且不能编译通过的话</summary>
         
       
     
