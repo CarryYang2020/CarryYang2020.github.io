@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-30T05:58:17.842Z</updated>
+  <updated>2020-10-30T06:04:29.728Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>FFmpeg学习之开发Mac播放器(二)：YUV数据转为RGB数据并渲染</title>
     <link href="http://example.com/2020/10/30/ffmpeg-2/"/>
     <id>http://example.com/2020/10/30/ffmpeg-2/</id>
     <published>2020-10-30T05:58:17.842Z</published>
-    <updated>2020-10-30T05:58:17.842Z</updated>
+    <updated>2020-10-30T06:04:29.728Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title-FFmpeg学习之开发Mac播放器-二-：YUV数据转为RGB数据并渲染&quot;&gt;&lt;a href=&quot;#title-FFmpeg学习之开发Mac播放器-二-：YUV数据转为RGB数据并渲染&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;解码出的YUV数据要转成RGB数据然后显示，我使用AVFilter进行转换而不是sws_scale&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class=&quot;line-numbers language-objective-c&quot;&gt;&lt;code</summary>
         
       
     
