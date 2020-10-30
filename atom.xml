@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-30T03:56:28.741Z</updated>
+  <updated>2020-10-30T05:37:44.666Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2020/10/30/Xcode12-1/"/>
+    <id>http://example.com/2020/10/30/Xcode12-1/</id>
+    <published>2020-10-30T05:37:44.665Z</published>
+    <updated>2020-10-30T05:37:44.666Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h2 id=&quot;Title-旧版本的app在Xcode12上可能遇到的兼容性问题以及解决方法&quot;&gt;&lt;a href=&quot;#Title-旧版本的app在Xcode12上可能遇到的兼容性问题以及解决方法&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>FFmpeg学习之开发Mac播放器(一)：解码视频</title>
@@ -30,27 +52,6 @@
         
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/10/27/hello-world/"/>
-    <id>http://example.com/2020/10/27/hello-world/</id>
-    <published>2020-10-27T01:28:02.591Z</published>
-    <updated>2020-10-27T01:28:02.591Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
