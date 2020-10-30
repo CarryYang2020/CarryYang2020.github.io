@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-30T05:40:31.371Z</updated>
+  <updated>2020-10-30T05:42:13.005Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>旧版本的app在Xcode12上可能遇到的兼容性问题以及解决方法</title>
     <link href="http://example.com/2020/10/30/Xcode12-1/"/>
     <id>http://example.com/2020/10/30/Xcode12-1/</id>
     <published>2020-10-30T05:37:44.665Z</published>
-    <updated>2020-10-30T05:40:31.371Z</updated>
+    <updated>2020-10-30T05:42:13.005Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;hr&gt;
-&lt;h2 id=&quot;title-旧版本的app在Xcode12上可能遇到的兼容性问题以及解决方法&quot;&gt;&lt;a href=&quot;#title-旧版本的app在Xcode12上可能遇到的兼容性问题以及解决方法&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Xcode12编译的项目如果有用到.c方法的部分提示：&lt;font color=&quot;red&quot;&gt; Implicit declaration of function ‘xx’ is invalid in C99&lt;/font&gt;&amp;gt;,并且不能编译通过的话</summary>
         
       
     
