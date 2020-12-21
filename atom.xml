@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-10-30T06:04:29.728Z</updated>
+  <updated>2020-12-21T05:49:47.413Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MacApp之dmg打包教程</title>
+    <link href="http://example.com/2020/12/21/macapppackage/"/>
+    <id>http://example.com/2020/12/21/macapppackage/</id>
+    <published>2020-12-21T05:41:45.000Z</published>
+    <updated>2020-12-21T05:49:47.413Z</updated>
+    
+    
+    <summary type="html">The article has been encrypted, please enter your password to view.&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>FFmpeg学习之开发Mac播放器(二)：YUV数据转为RGB数据并渲染</title>
