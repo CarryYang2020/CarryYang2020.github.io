@@ -45,7 +45,7 @@
     <link href="http://example.com/2020/10/30/Xcode12-1/"/>
     <id>http://example.com/2020/10/30/Xcode12-1/</id>
     <published>2020-10-30T05:37:44.665Z</published>
-    <updated>2020-10-30T05:47:55.271Z</updated>
+    <updated>2020-10-30T05:50:27.289Z</updated>
     
     
       
@@ -54,27 +54,6 @@
         
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Xcode12编译的项目如果有用到.c方法的部分提示：&lt;font color=&quot;red&quot;&gt; Implicit declaration of function ‘xx’ is invalid in C99&lt;/font&gt;&amp;gt;,并且不能编译通过的话</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>FFmpeg学习之开发Mac播放器(一)：解码视频</title>
-    <link href="http://example.com/2020/10/30/ffmpeg-1/"/>
-    <id>http://example.com/2020/10/30/ffmpeg-1/</id>
-    <published>2020-10-30T03:45:14.153Z</published>
-    <updated>2020-10-30T05:51:09.049Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;*&lt;br&gt;最近项目中涉及到视频处理，所以从头开始学习FFmpeg。期间遇到了很多问题，踩了许多的坑，把我学习的经历记录下来，方便自己日后查看，也方便给需要的人提供帮助。由于刚开始学习，只重视功能的实现，代码像流水一样写下来，没有封装更别提优雅，所以请看的人多多包含。&lt;/p&gt;</summary>
         
       
     
