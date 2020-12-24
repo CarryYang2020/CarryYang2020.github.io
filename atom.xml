@@ -107,4 +107,57 @@
     
   </entry>
   
+  <entry>
+    <title>CGContextRef在iOS上画各种图形</title>
+    <link href="http://example.com/2020/10/30/CGontextRef_to_draw/"/>
+    <id>http://example.com/2020/10/30/CGontextRef_to_draw/</id>
+    <published>2020-10-30T03:45:14.153Z</published>
+    <updated>2020-12-22T02:01:43.882Z</updated>
+    
+    
+    <summary type="html">The article has been encrypted, please enter your password to view.&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Xcode快捷键和添加注释</title>
+    <link href="http://example.com/2020/10/30/iOS_shortcut/"/>
+    <id>http://example.com/2020/10/30/iOS_shortcut/</id>
+    <published>2020-10-30T03:45:14.153Z</published>
+    <updated>2020-12-24T05:36:41.536Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;快捷键&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ESC             自动提示列表&lt;br&gt;CMD + Shift + N  新建项目&lt;br&gt;CMD + N         项目中新建文件&lt;br&gt;CMD + R        </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>iOS image/IO 图像编解码</title>
+    <link href="http://example.com/2020/10/30/image_io/"/>
+    <id>http://example.com/2020/10/30/image_io/</id>
+    <published>2020-10-30T03:45:14.153Z</published>
+    <updated>2020-12-22T02:10:57.079Z</updated>
+    
+    
+    <summary type="html">The article has been encrypted, please enter your password to view.&lt;br&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
 </feed>
